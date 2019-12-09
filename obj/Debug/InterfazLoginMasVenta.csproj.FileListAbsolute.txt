@@ -1,0 +1,16 @@
+D:\C#\InterfazLoginMasVenta\bin\Debug\InterfazLoginMasVenta.exe.config
+D:\C#\InterfazLoginMasVenta\bin\Debug\InterfazLoginMasVenta.exe
+D:\C#\InterfazLoginMasVenta\bin\Debug\InterfazLoginMasVenta.pdb
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.csprojAssemblyReference.cache
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.Form1.resources
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.Properties.Resources.resources
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.csproj.GenerateResource.cache
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.csproj.CoreCompileInputs.cache
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.exe
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.pdb
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.Form2.resources
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.productsForm.resources
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.userForm.resources
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.consultasForm.resources
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.ventasForm.resources
+D:\C#\InterfazLoginMasVenta\obj\Debug\InterfazLoginMasVenta.ingresosForm.resources
